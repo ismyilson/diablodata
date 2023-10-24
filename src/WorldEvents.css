@@ -1,0 +1,16 @@
+.eventContainer {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+.event {
+    color: black;
+    background-color: whitesmoke;
+    min-width: 500px;
+    min-height: 250px;
+    margin: 30px 15px 0 0;
+    border-radius: 15px;
+    text-align: center;
+}
