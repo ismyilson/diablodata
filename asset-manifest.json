@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/diablodata/static/css/main.5fa304e4.css",
+    "main.js": "/diablodata/static/js/main.0b43d390.js",
+    "static/media/worldboss_warning.mp3": "/diablodata/static/media/worldboss_warning.0dc47553f33c25b95a51.mp3",
+    "static/media/helltide_warning.mp3": "/diablodata/static/media/helltide_warning.78b8cff380d7fa734981.mp3",
+    "static/media/legion_warning.mp3": "/diablodata/static/media/legion_warning.82e2a6801736c97dccd8.mp3",
+    "index.html": "/diablodata/index.html",
+    "main.5fa304e4.css.map": "/diablodata/static/css/main.5fa304e4.css.map",
+    "main.0b43d390.js.map": "/diablodata/static/js/main.0b43d390.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5fa304e4.css",
+    "static/js/main.0b43d390.js"
+  ]
+}
